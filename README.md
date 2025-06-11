@@ -28,7 +28,7 @@
 ### ⏱️ Stopwatch App  
 > A digital stopwatch with Start, Stop, and Reset features. Built with a clean UI and deployed on Netlify.  
 **Tech Used**: HTML, CSS, JavaScript  
-🔗 [View Live](kabinesan-stopwatch.netlify.app) | [Source Code](https://github.com/Kabinesan/stopwatch)
+🔗 [View Live](kabinesan-stopwatch.netlify.app) | [Source Code](https://github.com/Kabinesan/Stop-Watch)
 
 ---
 
